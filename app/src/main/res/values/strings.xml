@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Authorization test</string>
+    <!-- Titles -->
+    <string name="title_main_activity">Главное меню</string>
+    <string name="title_sign_in_activity">Авторизация</string>
+
+    <!-- Main views names -->
+    <string name="btn_authorization_name">Авторизация</string>
+
+    <!-- Sign views names -->
+    <string name="create">СОЗДАТЬ</string>
+    <string name="email">Электронная почта</string>
+    <string name="password">Пароль</string>
+    <string name="btn_enter_name">Войти</string>
+
+    <!-- Errors -->
+    <string name="error_empty_email">Укажите электронную почту</string>
+    <string name="error_empty_password">Укажите пароль</string>
+    <string name="error_invalid_email">Некорректно указана электронная почта</string>
+    <string name="error_invalid_password">Некорректно указан пароль</string>
+    <string name="connection_not_found">Проверьте подключение к Интернету и повторите попытку</string>
+    <string name="error_loading_weather">Возникла проблема загрузки погоды</string>
+
+    <!-- Help -->
+    <string name="help_password_input">Пароль - минимум 6 символов, должен обязательно содержать минимум 1 строчную букву, 1 заглавную и 1 цифру</string>
+
+    <!-- Weather -->
+    <string name="temperature_with_degree" translatable="false">%s\u2103</string>
+    <string name="message_weather">Погода в городе %1$s: %2$s</string>
+
+</resources>
